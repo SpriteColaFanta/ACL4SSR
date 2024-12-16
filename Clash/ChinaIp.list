@@ -389,6 +389,7 @@ IP-CIDR,43.98.0.0/15,no-resolve
 IP-CIDR,43.100.0.0/14,no-resolve
 IP-CIDR,43.104.0.0/13,no-resolve
 IP-CIDR,43.112.0.0/12,no-resolve
+IP-CIDR,43.130.30.0/24,no-resolve
 IP-CIDR,43.131.160.0/19,no-resolve
 IP-CIDR,43.135.224.0/19,no-resolve
 IP-CIDR,43.136.0.0/13,no-resolve
